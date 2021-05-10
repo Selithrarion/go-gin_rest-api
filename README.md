@@ -1,2 +1,2 @@
-# go-gin_rest-api
-Golang + Gin framework RestAPI, Docker, basic JWT
+# Golang Gin RestAPI
+RestAPI with Golang and Gin framework. Docker, JWT
